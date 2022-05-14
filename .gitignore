@@ -145,3 +145,23 @@ Temporary Items
 *.msm
 *.msp
 *.txz
+
+# ----------------------------------------------------------------------------
+# CMake
+# ----------------------------------------------------------------------------
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# ----------------------------------------------------------------------------
+# Project specific folders
+# ----------------------------------------------------------------------------
+[Bb]uild/
