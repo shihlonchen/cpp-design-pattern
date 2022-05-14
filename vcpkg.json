@@ -1,0 +1,17 @@
+{
+    "name": "cpp-design-pattern-practice",
+    "version-semver": "0.1.0",
+    "description": "C++ design pattern practice",
+    "features": {
+        "tests": {
+            "description": "Build Tests",
+            "dependencies": [
+                {
+                    "name": "doctest",
+                    "version>=": "2.4.8"
+                }
+            ]
+        }
+    },
+    "builtin-baseline": "714990d75f99db4e4450d256ea74a5b14649db02"
+}
